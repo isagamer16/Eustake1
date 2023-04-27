@@ -1,10 +1,11 @@
 {
-    "name": "Eustake1",
+    "name": "Bola 8",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
