@@ -10,7 +10,7 @@ input.onGesture(Gesture.Shake, function () {
     } else if (Número_aleatorio == 4) {
         basic.showString("NO SE")
     } else {
-        basic.showString("ALOMEJOR")
+        basic.showString("A LO MEJOR")
     }
     basic.showNumber(8)
 })
